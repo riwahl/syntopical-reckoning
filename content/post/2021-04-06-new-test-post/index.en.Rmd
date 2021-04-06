@@ -16,6 +16,8 @@ DisableComments: no
 This is a new test post. Is this visible?
 
 ```{r}
+library(tidyverse)
+
 ggplot(mpg) +
  aes(x = displ, y = hwy, colour = class) +
  geom_point(size = 1L) +
