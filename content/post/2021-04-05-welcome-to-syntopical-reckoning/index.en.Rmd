@@ -12,3 +12,12 @@ DisableComments: no
 ---
 
 Hello and welcome to my newly started blog -- Syntopical Reckoning
+
+```{r}
+ggplot(mpg) +
+ aes(x = displ, y = hwy, colour = class) +
+ geom_point(size = 1L) +
+ scale_color_hue() +
+ theme_minimal()
+```
+

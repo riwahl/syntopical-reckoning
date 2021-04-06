@@ -13,5 +13,12 @@ DisableComments: no
 
 In this post, I will clean a really messy dataset using the ´tidyverse´
 
+```{r}
+ggplot(mpg) +
+ aes(x = displ, y = hwy, colour = class) +
+ geom_point(size = 1L) +
+ scale_color_hue() +
+ theme_minimal()
+```
 
 
