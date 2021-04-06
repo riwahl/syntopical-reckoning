@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://syntopicalreckoning.netlify.app/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/post/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/post/2021-04-05-welcome-to-syntopical-reckoning/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/tags/index/</loc>
+  </url><url>
+    <loc>https://syntopicalreckoning.netlify.app/tags/</loc>
+  </url>
+</urlset>

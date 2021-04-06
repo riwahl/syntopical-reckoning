@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website of Rikard Wahlström</title>
+    <link>https://syntopicalreckoning.netlify.app/</link>
+    <description>Recent content on Website of Rikard Wahlström</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://syntopicalreckoning.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Syntopical Reckoning!</title>
+      <link>https://syntopicalreckoning.netlify.app/post/2021-04-05-welcome-to-syntopical-reckoning/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntopicalreckoning.netlify.app/post/2021-04-05-welcome-to-syntopical-reckoning/</guid>
+      <description>Hello and welcome to my newly started blog – Syntopical Reckoning</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://syntopicalreckoning.netlify.app/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntopicalreckoning.netlify.app/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://syntopicalreckoning.netlify.app/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntopicalreckoning.netlify.app/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://syntopicalreckoning.netlify.app/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntopicalreckoning.netlify.app/about/</guid>
+      <description>[More information coming soon]</description>
+    </item>
+    
+  </channel>
+</rss>
