@@ -14,11 +14,15 @@ params:
   customCss: []
   customJs: []
   description: Welcome! I'm Rikard Wahlström
-  doNotLoadAnimations: yes
+  disableThemeSwitcher: yes
+  doNotLoadAnimations: no
   favicon: favicons/
   images: images/site-feature-image.png
   keywords: ''
-  mainSections: post
+  mainSections: ["post"]
+  singleDateFormat: "2 January 2006"
+  indexDateFormat: "2 January 2006"
+  listDateFormat: "2 January"
   math:
     enable: yes
     use: katex
