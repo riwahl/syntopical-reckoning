@@ -20,7 +20,7 @@ params:
   keywords: ''
   mainSections: post
   math:
-    enable: no
+    enable: yes
     use: katex
   #profilePicture: images/profile.jpg
   simpleAnalytics: {}
