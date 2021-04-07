@@ -13,8 +13,8 @@ params:
   author: Rikard Wahlström
   customCss: []
   customJs: []
-  description: Syntopical Reckoning
-  doNotLoadAnimations: no
+  description: Welcome! I'm Rikard Wahlström
+  doNotLoadAnimations: yes
   favicon: favicons/
   images: images/site-feature-image.png
   keywords: ''
