@@ -50,3 +50,7 @@ menu:
       name: Contact
       url: /contact/
       weight: 400
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 500
