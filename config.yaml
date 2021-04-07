@@ -22,7 +22,7 @@ params:
   math:
     enable: yes
     use: katex
-  profilePicture: images/favicon.ico
+  profilePicture: images/profile.png
   simpleAnalytics: {}
   socialIcons:
     - icon: fab fa-github
