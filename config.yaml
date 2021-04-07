@@ -16,7 +16,7 @@ params:
   description: Syntopical Reckoning
   doNotLoadAnimations: no
   favicon: favicons/
-  images: images/site-feature-image.png
+#  images: images/site-feature-image.png
   keywords: ''
   mainSections: post
   math:
@@ -50,7 +50,3 @@ menu:
       name: Contact
       url: /contact/
       weight: 400
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 500
